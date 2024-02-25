@@ -1,0 +1,59 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0; /* Background color for the entire page */
+}
+
+.App {
+  max-width: 1200px;
+  max-height:2000px; /* Limiting the width of the content */
+  margin: 0 auto; /* Center aligning the content */
+  background-color: #fff; /* Background color for the main content area */
+  border-radius: 8px; /* Rounded corners for the main content area */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle depth effect */
+}
+
+header {
+  background-color:aqua; /* Background color for the header */
+  color:black; /* Text color for the header */
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color:crimson; /* Background color for the navigation */
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff; /* Text color for navigation links */
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: #ccc; /* Text color for navigation links on hover */
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333; /* Background color for the footer */
+  color: #fff; /* Text color for the footer */
+  text-align: center;
+  padding: 20px;
+}

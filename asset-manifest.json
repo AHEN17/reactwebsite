@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.240202ed.css",
+    "main.js": "/static/js/main.f77bc1ff.js",
+    "static/js/453.bb828c5d.chunk.js": "/static/js/453.bb828c5d.chunk.js",
+    "static/media/cats.jpg": "/static/media/cats.4b1fb13d3271e01e00ba.jpg",
+    "static/media/pethome3.jpg": "/static/media/pethome3.2d169752f86452dfc30f.jpg",
+    "static/media/german.jpg": "/static/media/german.cc0fad031835a7afb14a.jpg",
+    "static/media/africangreyparrot.jpg": "/static/media/africangreyparrot.e3bc2ba3706fdedc5ee3.jpg",
+    "index.html": "/index.html",
+    "main.240202ed.css.map": "/static/css/main.240202ed.css.map",
+    "main.f77bc1ff.js.map": "/static/js/main.f77bc1ff.js.map",
+    "453.bb828c5d.chunk.js.map": "/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240202ed.css",
+    "static/js/main.f77bc1ff.js"
+  ]
+}
